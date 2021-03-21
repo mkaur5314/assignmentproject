@@ -6,7 +6,12 @@ Student ID 8735314
 
 I got the user interface for the web from a student of mine, Pat Wilken.
 
-To run:
+To run on Heroku
+1. Go to https://assignmentproject9.herokuapp.com/
+2. Type in hello
+
+
+To run on local:
 
 1. Sign up for paypal developer sandbox and get a client id
 2. The first time run `npm install`
